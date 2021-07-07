@@ -26,4 +26,9 @@ HOW-
 It will be simple and everyone can use it
 
 Detail Requirements
-Description     Category    Status
+
+High Level Requirements
+Description CategoryStatusGame should restart every timeTechnicalClearedIf the player is out, it should exitTechnicalClearedShould allow all playerTechnicalCleared
+
+
+
