@@ -12,8 +12,6 @@
 
 |Test ID|Description|Exp. i/p|Exp. o/p|Actual o/p|Type of Test|
 |---|---|---|---|---|---|
-|L_01|Verify login credentials|Loginid and Password|Success -> Menu ; Failure -> exit|Success -> Menu ; Failure -> exit|Scenerio|
-|L_02|Adding entry to the file|Details of individual|Details Added successfully|Details Added successfully|Technical|
-|L_03|Deleting entry|Id of the individual|Id present -> Deleted; Id absent -> not found|Id present -> Deleted; Id absent -> not found|Technical|
-|L_04|Modify Entry|Id of individual|Id present -> modify; Id absent -> not found|Id present -> modify; Id absent -> not found|Technical|
-|L_05|Search Entry|Id of individual|Id present -> display; Id absent -> not found|Id present -> display; Id absent -> not found|Technical|
+|L_01|Game|Loading Game|Success -> Menu ; Failure -> exit|Success -> Menu ; Failure -> exit|Scenerio|
+|L_02|Score|Details of Score|Score Details Added successfully|Score Details Added successfully|Technical|
+|L_03|Exit Game|Exit the Game|Game Exit Succesfull|No Error|Technical|
