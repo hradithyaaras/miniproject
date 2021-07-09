@@ -17,7 +17,7 @@
 
 ## SWOT Analysis
 
-
+![SWOT ANALYIS](https://github.com/Amit-Singh-op/Project-Ltts/blob/main/1_Requirement/swat.png)
 
 ## 4 W's and 1 H
 
@@ -30,7 +30,7 @@
 ### WHERE -
    Fields where records are being digitised and for teaching the beginners
 ### HOW -
-   It will be used by everyone since simple to use.
+   It will be used by everyone since its simple to use.
 
 
 # Detail Requirements
@@ -39,15 +39,15 @@
 
 |Id|Description|Category|Status|
 |---|---|---|---|
-|HLR1|Game should Start|Technical|Implemented|
-|HLR2|Menu should display|Technical|Implemented|
-|HLR3|Game should exit after its completed|Scenerio|Implemented|
+|HLR1|Game should Start|Implemented|
+|HLR2|Menu should display|Implemented|
+|HLR3|Game should exit after its completed|Implemented|
 
 ## Low Level Requirements
 
-|Id|Description|Category|HLRID|Status|
-|---|---|---|---|---|
-|LLR1|Should Show Welcome Message|Technical|1, 2|Implemented|
-|LLR2|Program should exit when done|Technical|1, 3|Implemented|
-|LLR3|Action executed according to the command|Technical|2, 3, 4|Implemented|
-|LLR4|Exit with Score|Technical|1, 2, 3, 4|Implemented|
+||ID| Description | Status
+|--|--|--|
+| LL1 | initial world and Player in main() |Implemented
+| LL2 | Call to multiple functions in order to make it runnable | Implemented
+| LL3 | Go through each function to check requirement is meeting or not | Implemented
+| LL4 | Then print the End Game screen, depending on how player played the game  | Implemented
