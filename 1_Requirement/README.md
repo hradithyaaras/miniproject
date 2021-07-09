@@ -17,7 +17,7 @@
 
 ## SWOT Analysis
 
-![SWOT ANALYIS](https://github.com/Amit-Singh-op/Project-Ltts/blob/main/1_Requirement/swat.png)
+![SWOT ANALYIS](https://github.com/hradithyaaras/miniproject/blob/main/1_Requirement/swat.png)
 
 ## 4 W's and 1 H
 
