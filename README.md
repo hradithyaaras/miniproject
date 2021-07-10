@@ -6,6 +6,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/bd50147cac3840e4a3751d072ee53335)](https://www.codacy.com/gh/hradithyaaras/miniproject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hradithyaaras/miniproject&amp;utm_campaign=Badge_Grade)
 [![C/C++](https://github.com/hradithyaaras/miniproject/actions/workflows/cpp.yml/badge.svg)](https://github.com/hradithyaaras/miniproject/actions/workflows/cpp.yml)
 [![Contribution Check - Git Inspector](https://github.com/hradithyaaras/miniproject/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/hradithyaaras/miniproject/actions/workflows/Git_Inspector.yml)
+[![Unit Testing - Unity](https://github.com/hradithyaaras/miniproject/actions/workflows/unity.yml/badge.svg)](https://github.com/hradithyaaras/miniproject/actions/workflows/unity.yml)
 
 
 ![Example](https://github.com/hradithyaaras/miniproject/blob/main/Output%20(2).png)
