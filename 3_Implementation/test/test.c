@@ -7,13 +7,17 @@ void setUp() {}
 /* Required by the unity test framework */
 void tearDown() {}
 
-void check(void)
+void success(void)
 {
+    char *ouput_string = " ";
+    char *test_string = " ";
+
+    TEST_ASSERT_EQUAL(SUCCESS, extract_string(NULL, ouput_string));
 }
 
 int main()
 {
     UNITY_BEGIN();
-    RUN_TEST(check);
+    RUN_TEST(success);
     return UNITY_END();
 }
