@@ -16,8 +16,12 @@ void ShowConsoleCursor(bool showFlag);
 
 typedef enum check
 {
-    SUCCESS,
-    NULL_PTR,
+    YOU_WIN,
+    YOU_FAILED,
+    YOU_HIT_BY_AN_ENEMY,
+    LASER_ENEMY_CANT_BE_KILLED_BY_PLAYERS_SHOT,
+    ERROR_,
 } check;
-check extract_string(const char *in_string, char *out_string);
+check Game_Over(const int count_enemy, char *player);
+check Compilation_error(char *laser_enemy);
 #endif
