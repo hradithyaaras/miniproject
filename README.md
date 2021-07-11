@@ -7,6 +7,7 @@
 [![C/C++](https://github.com/hradithyaaras/miniproject/actions/workflows/cpp.yml/badge.svg)](https://github.com/hradithyaaras/miniproject/actions/workflows/cpp.yml)
 [![Contribution Check - Git Inspector](https://github.com/hradithyaaras/miniproject/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/hradithyaaras/miniproject/actions/workflows/Git_Inspector.yml)
 [![Unit Testing - Unity](https://github.com/hradithyaaras/miniproject/actions/workflows/unity.yml/badge.svg)](https://github.com/hradithyaaras/miniproject/actions/workflows/unity.yml)
+[![CI-Coverage](https://github.com/hradithyaaras/miniproject/actions/workflows/CI-Coverage.yml/badge.svg)](https://github.com/hradithyaaras/miniproject/actions/workflows/CI-Coverage.yml)
 
 
 ![Example](https://github.com/hradithyaaras/miniproject/blob/main/Output%20(2).png)
